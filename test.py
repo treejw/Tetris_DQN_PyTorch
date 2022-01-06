@@ -19,7 +19,7 @@ def get_args():
     parser.add_argument("--save_frame", type=bool, default=True)
     parser.add_argument("--convert_gif", type=bool, default=True)
 
-    weightFile = 'tetris_E7_L1'
+    weightFile = 'tetris_E3651_L741'
     parser.add_argument("--saved_path", type=str, default="weightFiles/"+weightFile)
     parser.add_argument("--out_images", type=str, default='out_images/'+weightFile)
 
