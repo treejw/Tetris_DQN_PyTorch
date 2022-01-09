@@ -47,7 +47,7 @@ tqdm==4.62.3
 ### Installing Packages
 
 ```shell
-$ pip install -r requirements
+$ pip install -r requirements.txt
 ```
 
 ### Train & Save model
