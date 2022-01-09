@@ -47,17 +47,17 @@ tqdm==4.62.3
 ### Installing Packages
 
 ```shell
-$pip install -r requirements
+$ pip install -r requirements
 ```
 
 ### Train & Save model
 ```shell
-$python3 train.py
+$ python3 train.py
 ```
 
 ### Test & Save the results in gif format
 ```shell
-$python3 test.py
+$ python3 test.py
 ```
 
 
