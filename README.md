@@ -31,7 +31,7 @@
 
 
 
-## RUN CODE
+## How to run codes
 ### Requirements
 ```
 imageio==2.13.5
