@@ -4,11 +4,11 @@
 
 <br>
 
-|Epoch  `84`|Epoch `1185`|Epoch `2042`|Epoch `3651`|
-|-|-|-|-|
-|총 제거된 행 `1`|총 제거된 행 `13`|총 제거된 행 `42`|총 제거된 행 `312`|
-|최종 점수 `26`|최종 점수 `201`|최종 점수 `781`|최종 점수 `7515`|
-|![image](Demo/1.gif)|![image](Demo/2.gif)|![image](Demo/3.gif)|![image](Demo/4.gif)|
+|Epoch|  `84`| `1185`| `2042`| `3651`|
+|:-:|:-:|:-:|:-:|:-:|
+|**total number of rows removed**| 1| 13 | 42 | 312 |
+|**final score**| 26 | 201 | 781 | 7515 |
+||![image](Demo/1.gif)|![image](Demo/2.gif)|![image](Demo/3.gif)|![image](Demo/4.gif)|
 
 <br>
 
