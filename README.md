@@ -1,8 +1,12 @@
-# [PyTorch] DQN(Deep Q-Network)을 이용하여 Tetris 학습
+# [PyTorch] Tetris with DQN(Deep Q-Network)
 
-- 발표 영상 링크: [YouTube](https://youtu.be/RSsgcNyvkzc)
+- Presentation video: [YouTube](https://youtu.be/RSsgcNyvkzc)
 
 <br>
+
+## Results
+
+<p align="center">
 
 |Epoch|  `84`| `1185`| `2042`| `3651`|
 |:-:|:-:|:-:|:-:|:-:|
@@ -10,13 +14,15 @@
 |**final score**| 26 | 201 | 781 | 7515 |
 ||![image](Demo/1.gif)|![image](Demo/2.gif)|![image](Demo/3.gif)|![image](Demo/4.gif)|
 
+  
+</p>
 <br>
 
 ## Details
-### ✔ 테트리스에서의 State, Reward, Action 정의
+### ✔ Definition of State, Reward, Action in Tetris
 ![image](https://user-images.githubusercontent.com/42428487/148688331-8ffa4186-c359-427d-8129-deb72f90219c.png)
 
-### ✔ DQN 알고리즘 (Q-function)
+### ✔ DQN algorithm (Q-function)
 <img src="https://user-images.githubusercontent.com/42428487/148688790-87299f9f-0766-48a4-93b4-ecad71ded425.png" width="600">
 
 
